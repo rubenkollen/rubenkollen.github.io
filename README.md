@@ -132,8 +132,7 @@
     100%   { background-color: black; }	
   }
   body {
-  -webkit-animation: argh-my-eyes 1s infinite;
-  -moz-animation:    argh-my-eyes 1s infinite;
+
   animation:         argh-my-eyes 1s infinite;
 }
 
@@ -156,14 +155,16 @@ p {
 <img src="pepe.gif" />
 </head>
 <body>
-
-<h1>GET OUT FKING NORMIES</h1>
+<audio src="C:\Users\ruben kollen\Desktop\vakken\blok 4\html stuff\random stuff\pumped.mp4" autoplay loop>
+</audio>
+<h1>PIJN AAN JE OGEN?</h1>
 <table border="1">
-<tr> <td><h1> GET  </h1> </td>
-		<td><h1> OUT </h1></td> </tr>
-<tr> <td><h1> FKING </h1></td>
-		<td><h1>NORMIES</h1></td> </tr>
+<tr> <td><h1> PIJN  </h1> </td>
+		<td><h1> AAN </h1></td> </tr>
+<tr> <td><h1> JE </h1></td>
+		<td><h1>OGEN?</h1></td> </tr>
 </table>
-<input id="clickme" type="button" value="clickme" onclick="https://youixentoo.github.io/" /> 
-</body>
+<input id="" type="button" value="GOEDE SERIE " onclick='window.open("https://en.wikipedia.org/wiki/The_Magicians_(U.S._TV_series)")' />
+<input id="" type="button" value="background music " onclick='window.open("https://www.youtube.com/watch?v=SDTZ7iX4vTQ")' /> 
+<a href="https://youixentoo.github.io/">thijs website</a>
 </html>
