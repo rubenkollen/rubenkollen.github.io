@@ -164,5 +164,6 @@ p {
 <tr> <td><h1> FKING </h1></td>
 		<td><h1>NORMIES</h1></td> </tr>
 </table>
+<input id="clickme" type="button" value="clickme" onclick="https://youixentoo.github.io/" /> 
 </body>
 </html>
